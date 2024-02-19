@@ -1,0 +1,42 @@
+[
+    {
+        "question": "1. Which tag do we use in HTML for inserting a line-break?",
+        "options": [
+            "A. <a/>",
+            "B. <pre/>",
+            "C. <br/>",
+            "D. Not"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "2. Choose the correct HTML tag to make a text italic?",
+        "options": [
+            "A. <i>",
+            "B. <b>",
+            "C. <it>",
+            "D. <il>"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "3. Choose the correct HTML tag for the largest heading?",
+        "options": [
+            "A. <h4>",
+            "B. <h3>",
+            "C. <h6>",
+            "D. <h1>"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "4. Choose the correct HTML tag to make a text bold?",
+        "options": [
+            "A. <bd>",
+            "B. <b>",
+            "C. <bold>",
+            "D. Not"
+        ],
+        "answer": 1
+    }
+]
